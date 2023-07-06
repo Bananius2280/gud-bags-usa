@@ -1,0 +1,148 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/strong_4e40e2d9-19ea-4241-a09a-4c22e1b63b66.svg",
+            "custom_icon_width": 200,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/designed.svg",
+            "custom_icon_width": 200,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/waret.svg",
+            "custom_icon_width": 200,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon": "shopify:\/\/shop_images\/warranty.svg",
+            "custom_icon_width": 200,
+            "title": "",
+            "content": ""
+          }
+        },
+        "af3acf23-78f2-4c61-918f-80de8d4ff6b2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Your title",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "18f4bb2b-20b0-4d9e-825a-81ece7218c3d": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Your title",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "d1a0606b-9db7-4420-84ee-58cfd00b8f2e": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Your title",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        },
+        "33a7b547-7a20-49bd-811d-ac6325d4e328": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Your title",
+            "content": "<p>Short content about your store<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4",
+        "af3acf23-78f2-4c61-918f-80de8d4ff6b2",
+        "18f4bb2b-20b0-4d9e-825a-81ece7218c3d",
+        "d1a0606b-9db7-4420-84ee-58cfd00b8f2e",
+        "33a7b547-7a20-49bd-811d-ac6325d4e328"
+      ],
+      "settings": {
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "a5af4630-dd3d-4c1c-9c82-19851f2068db": {
+          "type": "links",
+          "settings": {
+            "menu": "footer"
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer"
+          }
+        },
+        "32d10bd7-db75-4d6f-9eb0-db927bdf9c82": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Feedback",
+            "content": ""
+          }
+        },
+        "e8746a33-198b-4a98-850d-ba0967340478": {
+          "type": "social_media",
+          "settings": {
+            "title": "Contacts",
+            "content": "<p><a href=\"tel:+38 (067) 22 66 466\" title=\"tel:+38 (067) 22 66 466\">+38 (067) 22 66 466<\/a><\/p><p><a href=\"mailto:contact@gudbags.com\">contact@gudbags.com<\/a><\/p><p>Mon-Fri: 10:00 - 20:00<br\/>Sat-Sun: 10:00 - 18:00<\/p><p><strong>Made in Ukraine<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a5af4630-dd3d-4c1c-9c82-19851f2068db",
+        "links",
+        "32d10bd7-db75-4d6f-9eb0-db927bdf9c82",
+        "e8746a33-198b-4a98-850d-ba0967340478"
+      ],
+      "settings": {
+        "show_payment_icons": true,
+        "enable_follow_on_shop": true,
+        "show_country_selector": true,
+        "show_locale_selector": true
+      }
+    }
+  },
+  "order": [
+    "text-with-icons",
+    "footer"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "sections": {
+    "816f0caa-fff0-46a5-b27e-73936ecfc707": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/banner-about-top-0dac9e6ff329f58.jpg",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "3137f038-ca53-4553-b1b2-b704ef480d3d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "large",
+        "image": "shopify:\/\/shop_images\/banner-about-bottom-0a87bc34d0aa.jpg",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "506577ba-b4b4-4b4b-9672-a04addf028fb": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "INSTAGRAM",
+        "content": "<p><a href=\"https:\/\/www.instagram.com\/explore\/tags\/gudbags\/\" target=\"_blank\">#gudbags<\/a> <a href=\"https:\/\/www.instagram.com\/gudbags\/\" target=\"_blank\">@gudbags<\/a><\/p>",
+        "button_text": "Viev",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#f5f5f5",
+        "button_text_color": "#000000"
+      }
+    },
+    "40670c28-2b93-4cec-a3d4-e8779e3156a0": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<iframe allowtransparency=\"true\" class=\"lightwidget-widget\" scrolling=\"no\" src=\"https:\/\/cdn.lightwidget.com\/widgets\/3aedc8544e3879e0bb64c31cf08bbcf2ed0c5bd9.html\" style=\"width: 100%; border: 0px; overflow: hidden; height: 275px;\"><\/iframe>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "816f0caa-fff0-46a5-b27e-73936ecfc707",
+    "main",
+    "3137f038-ca53-4553-b1b2-b704ef480d3d",
+    "506577ba-b4b4-4b4b-9672-a04addf028fb",
+    "40670c28-2b93-4cec-a3d4-e8779e3156a0"
+  ]
+}

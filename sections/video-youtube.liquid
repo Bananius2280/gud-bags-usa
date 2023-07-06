@@ -1,0 +1,18 @@
+{%- if product.metafields.custom.video_youtube_with_url != blank -%}
+<div style="display: flex; justify-content: center;">
+  <iframe width="1012" height="500" src="{{ product.metafields.custom.video_youtube_with_url }}" title="GUD NOOK 2.0 | огляд." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
+{%- endif -%}
+{% schema %}
+{
+  "name": "Video youtube",
+  "settings": [
+
+  ],
+  "presets": [
+    {
+      "name": "Video youtube"
+    }
+  ]
+}
+{% endschema %}

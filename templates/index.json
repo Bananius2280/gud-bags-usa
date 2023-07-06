@@ -1,0 +1,122 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5373.jpg",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "GUD in Warsaw",
+            "button_1_text": "View",
+            "button_1_link": "shopify:\/\/pages\/lookbook-gud-in-warsaw",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "section_height": "medium",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "all-products",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f0507fc6-8b9d-448f-8ccf-e7fc40d6ecb4": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "INSTAGRAM",
+        "content": "<p><a href=\"https:\/\/www.instagram.com\/explore\/tags\/gudbags\/\" target=\"_blank\">#gudbags<\/a> <a href=\"https:\/\/www.instagram.com\/gudbags\/\" target=\"_blank\">@gudbags<\/a><\/p>",
+        "button_text": "Veiw",
+        "button_link": "https:\/\/www.instagram.com\/gudbags\/",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#f5f5f5",
+        "button_text_color": "#000000"
+      }
+    },
+    "6981a986-5317-49c0-996f-a6b38de977ca": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<iframe allowtransparency=\"true\" class=\"lightwidget-widget\" scrolling=\"no\" src=\"https:\/\/cdn.lightwidget.com\/widgets\/3aedc8544e3879e0bb64c31cf08bbcf2ed0c5bd9.html\" style=\"width: 100%; border: 0px; overflow: hidden; height: 275px;\"><\/iframe>",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3f71e29e-18e0-4d32-a300-aad3fe4de877": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "About GUD",
+        "content": "<p>GUD is a brand of reliable, handy and practical backpacks, bags and travel accessories. We create high quality carry products perfect for travel, daily commute, sports or studying since 2012. Each of our products is constructed with quality materials and made to last. GUD is a style-conscious brand that makes practical utility products.<\/p>",
+        "button_text": "Read More",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "#f5f5f5",
+        "button_text_color": "#000000"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collections",
+    "f0507fc6-8b9d-448f-8ccf-e7fc40d6ecb4",
+    "6981a986-5317-49c0-996f-a6b38de977ca",
+    "3f71e29e-18e0-4d32-a300-aad3fe4de877"
+  ]
+}
